@@ -7,8 +7,8 @@
     <ProjectGuid>{785EAA8B-6950-4CC1-8E3D-530D9F5F2F7C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WorkFlow</RootNamespace>
-    <AssemblyName>WorkFlow</AssemblyName>
+    <RootNamespace>WorkFlow.Core</RootNamespace>
+    <AssemblyName>WorkFlow.Core</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
